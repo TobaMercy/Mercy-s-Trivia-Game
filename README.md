@@ -1,6 +1,6 @@
-Trivia Game
+**Trivia Game
 Description
-Welcome to the Trivial Game! This game consists of 10 questions with 3 options each. Your
+Welcome to the Trivia Game! This game consists of 10 questions with 3 options each. Your
 goal is to answer as many questions correctly as possible. After answering all the questions,
 you will receive your final score. You have the option to play the game again if you wish.
 How to Play:
