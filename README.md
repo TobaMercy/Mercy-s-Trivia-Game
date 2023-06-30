@@ -1,6 +1,7 @@
 **TRIVIA GAME**
 
-**DESCRIPTION**: Welcome to the Trivia Game! This game consists of 10 questions with 3 options each. Your
+**DESCRIPTION**: 
+Welcome to the Trivia Game! This game consists of 10 questions with 3 options each. Your
 goal is to answer as many questions correctly as possible. After answering all the questions,
 you will receive your final score. You have the option to play the game again if you wish.
 
@@ -21,8 +22,10 @@ Repeat steps 6-8 for all 10 questions.
 After answering all the questions, the game will display your final score.
 You will be asked if you want to play again. To play again, type "yes" and press Enter.
 Otherwise, type "no" and press Enter to exit the game.
-Dependencies
+
+**Dependencies**:
 This game requires Python to be installed on your computer. It was developed using Python3.7, but it should work with other Python 3 versions as well.
-Credits:
+
+**Credits**:
 The Trivia Game was created by Oluwatoba Mercy. If you have any questions or feedback,
 please contact Oluwatobamercyab@gmail.com.
