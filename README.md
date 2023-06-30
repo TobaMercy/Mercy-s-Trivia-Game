@@ -1,9 +1,10 @@
-**Trivia Game*
-Description
-Welcome to the Trivia Game! This game consists of 10 questions with 3 options each. Your
+**TRIVIA GAME**
+
+**DESCRIPTION**: Welcome to the Trivia Game! This game consists of 10 questions with 3 options each. Your
 goal is to answer as many questions correctly as possible. After answering all the questions,
 you will receive your final score. You have the option to play the game again if you wish.
-How to Play:
+
+**How to Play**:
 Make sure you have Python installed on your computer. This game was developed using Python.
 Download the game files from the repository or copy the code into your Python development
 environment.
